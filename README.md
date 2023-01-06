@@ -877,6 +877,7 @@ R = 10/2200
 
 **R = 4.55 kohm**
 ## 4. Video
+https://youtu.be/CdOGhBp8yvQ
 
 ## 5. Conclusiones
 * Concluyendo con el tema es importante recalcar que el conocimiento sobre las ondas que producen cada una de las corrientes y el voltaje, intensidad, representa.
